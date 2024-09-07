@@ -1,4 +1,9 @@
 # gyeongnam-air-quality-map-Py
+
+<a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuun-S%2FKyeongnam-air-quality-map_Py&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hit Counter for Kyeongnam-air-quality-map_Py"/>
+</a>
+
 경상남도 지역의 실시간 미세먼지 및 초미세먼지 농도를 지도로 시각화하여 제공하는 미니프로젝트
 
 ### 프로젝트 개요
